@@ -11,10 +11,10 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
 
 ## What usually populates my IDE
 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933" alt="Node" />
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB" style="display: inline-block" alt="React" />
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933" style="display: inline-block" alt="Node" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" style="display: inline-block" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" style="display: inline-block" alt="Python" />
 
 ## What I have already used in some capacity
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />
