@@ -4,10 +4,10 @@
 <hr />
 
 ## Who I am
-9 years of experience in data science & analytics. Front-end developer growing into a full stack. Proficient in JavaScript (Vanilla, React, Node, React Native), Python, HTML, CSS, PHP, SQL & NoSQL (mySQL, MongoDB, Postgres). Post-graduating in Full Stack Development by PUC-MG.
-
-Graduated in Data Science focused on Python, Machine Learning and predictive analysis at Digital House. Bachelor of Business Administration by Fundação Getúlio Vargas and certified in Forensic Accounting by the West Virginia University. Certified in General Astrophysics by the Federal University of Santa Catarina.
-
+Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with a lot of experience in data. American Football and guitar player, boxer, astrophysics certified and just all around curious individual.
+  - 9 years of data analytics experience
+  - 2 years of data science experience
+  - 1.5 year and counting as a developer
 
 ## What usually populates my IDE
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -16,7 +16,6 @@ Graduated in Data Science focused on Python, Machine Learning and predictive ana
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/rmcastilho/">
