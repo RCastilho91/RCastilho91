@@ -9,6 +9,8 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
   - 2 years of data science experience
   - 1.5 year and counting as a developer
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCastilho91&langs_count=8" />
+
 ## What usually populates my IDE
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB" style="display: inline-block" alt="React" />
