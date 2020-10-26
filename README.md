@@ -10,11 +10,14 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
   - 1.5 year and counting as a developer
 
 ## What usually populates my IDE
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
 
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933" alt="Node" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" alt="Python" />
 
 ## What I have already used in some capacity
-
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />
 
 ## Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/rmcastilho/">
