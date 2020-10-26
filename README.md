@@ -9,17 +9,18 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
   - 2 years of data science experience
   - 1.5 year and counting as a developer
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCastilho91&langs_count=8" />
-
 ## What usually populates my IDE
-
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB" style="display: inline-block" alt="React" />
-<img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933" style="display: inline-block" alt="Node" />
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" style="display: inline-block" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python" style="display: inline-block" alt="Python" />
+- React
+- Node
+- JavaScript
+- Python
+- VB Script (yep, I do Excel automation every once in a while!)
 
 ## What I have already used in some capacity
-<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java" alt="Java" />
+- PHP
+- Java
+- Go
+- TypeScript
 
 ## Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/rmcastilho/">
