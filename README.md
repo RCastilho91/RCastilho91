@@ -12,7 +12,7 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
 ## What usually populates my IDE
 - React
 - Node
-- JavaScript
+- Vanilla JavaScript
 - Python
 - VB Script (yep, I do Excel automation every once in a while!)
 
