@@ -23,7 +23,6 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
 - Go
 - TypeScript
 - Angular
-- C#
 
 ## Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/rmcastilho/">
