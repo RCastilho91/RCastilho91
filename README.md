@@ -1,7 +1,6 @@
 # <center>Rodrigo M. Castilho</center>
 <center><b><span style="fontsize: 4em">Software developer</span></center>
 <center>with a background in Data Science & Analytics</center></b>
-<hr />
 
 ## Who I am
 Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with a lot of experience in data. American Football and guitar player, boxer, astrophysics certified and just all around curious individual.
