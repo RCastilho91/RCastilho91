@@ -8,6 +8,9 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, Node) with
   - 9 years of data analytics experience
   - 2 years of data science experience
 
+## Currently working with
+Migrating a Python backend at Pareto
+
 ## What usually populates my IDE
 - React
 - Node
