@@ -14,8 +14,8 @@ Migrating a Python backend at Pareto
 ## What usually populates my IDE
 - React
 - Node
-- Vanilla JavaScript
 - Python
+- Vanilla JavaScript
 - VB Script (yep, I do Excel automation every once in a while!)
 
 ## What I have already used in some capacity
