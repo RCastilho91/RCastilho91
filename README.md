@@ -5,8 +5,8 @@
 ## Who I am
 Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) with a lot of experience in data. American Football and guitar player, boxer, astrophysics certified and just all around curious individual.
   - 2 years and counting as a developer
-  - 9 years of data analytics experience
   - 2 years of data science experience
+  - 9 years of data analytics experience
 
 ## Currently working with
 Python (backend, machine learning) & React + Redux @ Pareto
