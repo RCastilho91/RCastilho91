@@ -28,3 +28,4 @@ Migrating a Java & Python backend @ Pareto
 
 ## Connect with me
 LinkedIn: https://www.linkedin.com/in/rmcastilho/
+StackOverflow: https://stackoverflow.com/users/story/5925383
