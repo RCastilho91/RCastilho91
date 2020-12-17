@@ -10,7 +10,7 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) 
 
 
 ## Currently working with
-Migrating a Java & Python backend @ Pareto
+Migrating a Java & Python backend, resolving bugs in React/Redux @ Pareto
 
 ## What usually populates my IDE
 - React
