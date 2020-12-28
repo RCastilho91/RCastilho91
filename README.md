@@ -13,11 +13,11 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) 
 Migrating a Java & Python backend, resolving bugs in React/Redux @ Pareto
 
 ## What usually populates my IDE
+- Python
 - React
 - Node
-- Python
 - Vanilla JavaScript
-- VB Script (yep, I do Excel automation every once in a while!)
+- VB Script (I do Excel automation every once in a while!)
 
 ## What I have already used in some capacity
 - React Native
