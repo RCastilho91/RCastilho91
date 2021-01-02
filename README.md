@@ -21,7 +21,7 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) 
 - Vanilla JavaScript
 - VB Script (I do Excel automation every once in a while!)
 
-## What I have already used in some capacity
+## What I use or have used in some capacity
 - React Native
 - PHP
 - Java
