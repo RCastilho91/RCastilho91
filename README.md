@@ -18,7 +18,7 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) 
 - Python
 - React (including Redux)
 - Node
-- Vanilla JavaScript
+- JavaScript (vanilla, top 5% in LinkedIn Assessments)
 - VB Script (I do Excel automation every once in a while!)
 
 ## What I use or have used in some capacity
