@@ -15,7 +15,7 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) 
 - Learning more on Software Architecture
 
 ## What usually populates my IDE
-- Python
+- Python (including Django)
 - React (including Redux)
 - Node
 - JavaScript (top 5% of 800k+ in LinkedIn Assessments)
