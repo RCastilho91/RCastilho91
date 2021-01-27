@@ -12,6 +12,7 @@ Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) 
 ## Currently working with
 - Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React (both JS and TS))
 - Actively developing my [Phasmophobia fan application](http://phasmophobia-app.com/)
+- Part-time developing new digital products for R91 Data & IT Consulting (my own company)
 - Learning more on Software Architecture
 
 ## What usually populates my IDE
