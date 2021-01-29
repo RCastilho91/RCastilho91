@@ -3,7 +3,7 @@
 <center>with a background in Data Science & Analytics</center></b>
 
 ## Who I am
-Mostly a JavaScript developer focused on MERN (MySQL, Express, React, and Node) with a lot of experience in data. American Football and guitar player, boxer, astrophysics certified and just all around curious individual. I also have enough Photoshop skills to do a retouch here and there.
+Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React, and Node) with a lot of experience in data. American Football and guitar player, boxer, astrophysics certified and just all around curious individual. I also have enough Photoshop skills to do a retouch here and there.
   - 2 years and counting as a developer
   - 2 years of data science experience
   - 9 years of data analytics experience
