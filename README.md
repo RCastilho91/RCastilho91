@@ -17,7 +17,7 @@ Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React,
 
 ## What usually populates my IDE
 - Python (including Django)
-- React (including Redux)
+- React (also Redux)
 - Node
 - JavaScript (top 5% of 814k+ in LinkedIn Assessments)
 - VB Script (I do Excel automation every once in a while!)
