@@ -31,5 +31,4 @@ Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React,
 
 ## Connect with me
 LinkedIn: https://www.linkedin.com/in/rmcastilho/
-
 StackOverflow: https://stackoverflow.com/users/story/5925383
