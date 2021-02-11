@@ -8,7 +8,6 @@ Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React,
   - 2 years of data science experience
   - 9 years of data analytics experience
 
-
 ## Currently working with
 - Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React (both JS and TS))
 - Actively developing my [Phasmophobia fan application](http://phasmophobia-app.com/)
