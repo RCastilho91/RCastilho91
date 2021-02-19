@@ -24,7 +24,7 @@ Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React,
 ## What I use or have used in some capacity (not proficient in any of them)
 - React Native
 - PHP
-- Java
+- Java (including Kotlin)
 - Go
 - TypeScript
 
