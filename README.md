@@ -4,15 +4,15 @@
 
 ## Who I am
 Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React, and Node) with a lot of experience in data. American Football and guitar player, boxer, astrophysics certified and just all around curious individual. I also have enough Photoshop skills to do a retouch here and there, as well as XD.
-  - 2 years and counting as a developer
-  - 2 years of data science experience
-  - 9 years of data analytics experience
+  - 2 years and counting as a developer.
+  - 2 years of data science experience.
+  - 9 years of data analytics experience.
 
 ## Currently working with
-- Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React (both JS and TS))
-- Every now and then, developing my [Phasmophobia fan application](http://phasmophobia-app.com/)
-- Part-time developing new digital products for R91 Data & IT Consulting (my own company)
-- Learning more on Software Architecture and Design
+- Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React (both JS and TS)).
+- Every now and then, developing my [Phasmophobia fan application](http://phasmophobia-app.com/).
+- Part-time developing new digital products for R91 Data & IT Consulting (my own company).
+- Learning more on Software Architecture and Design.
 
 ## What usually populates my IDE
 - Python (including Django)
