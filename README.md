@@ -9,10 +9,10 @@ Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React,
   - 9 years of data analytics experience
 
 ## Currently working with
-- Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React (both JS and TS)).
-- Every now and then, developing my [Phasmophobia fan application](http://phasmophobia-app.com/).
-- Part-time developing new digital products for R91 Data & IT Consulting (my own company).
-- Learning more on Software Architecture and Design.
+- Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React (both JS and TS))
+- Every now and then, developing my [Phasmophobia fan application](http://phasmophobia-app.com/)
+- Part-time developing new digital products for R91 Data & IT Consulting (my own company)
+- Learning more on Software Architecture and Design
 
 ## What usually populates my IDE
 - Python (including Django)
