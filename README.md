@@ -1,5 +1,5 @@
 # <center>Rodrigo M. Castilho</center>
-<center><b><span style="fontsize: 4em">Full-stack software developer</span></center>
+<center><b><span style="fontsize: 4em">Full-Stack Developer | Software Engineer</span></center>
 <center>with a background in Data Science & Analytics</center></b>
 
 ## Who I am
