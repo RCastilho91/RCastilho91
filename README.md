@@ -11,7 +11,7 @@ Mostly a Python and JavaScript developer focused on MERN (MySQL, Express, React,
 ## Currently working with
 - Working full-stack on a product @ Pareto (translating Java to Python (including Django and Jupyter Notebooks), React)
 - Every now and then, developing my [Phasmophobia fan application](http://phasmophobia-app.com/)
-- Working on becoming a Computer Science Bachelor
+- Becoming a Computer Science Bachelor
 
 ## What usually populates my IDE
 - Python (including Django)
